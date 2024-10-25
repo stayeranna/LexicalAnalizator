@@ -1,0 +1,28 @@
+error: kjdfkj34
+error: {
+error: ;;;;;
+error: =
+error: ==
+error: --
+error: -0
+operator | := | 7430
+int_num | 12233 | 13518
+keyword | begin | 18558
+int_num | -23494324 | 32640
+real_num | 0.2 | 33747
+id_name | uuuuu | 52465
+id_name | innkndfk | 55924
+keyword | INTEGER | 56113
+int_num | 0 | 58677
+operator | ( | 60287
+operator | ) | 62161
+separator | ; | 62520
+operator | * | 64035
+operator | + | 65909
+operator | - | 69657
+real_num | 9.9 | 75691
+id_name | beg | 80162
+keyword | REAL | 84864
+id_name | sdk | 85452
+keyword | end | 90400
+real_num | 0.23 | 91773
