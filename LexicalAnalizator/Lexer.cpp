@@ -36,23 +36,23 @@ string Lexer::getType(const string& s) const
 	{
 		return "error";
 	}
-	if (state == 39 || state == 34 || state == 37 || state == 30)
+	if (state == 49 || state == 41 || state == 33 || state == 45 || state == 36 || state == 52)
 	{
 		return "keyword";
 	}
-	if (state == 10 || state == 17 || state == 11)
+	if (state == 12 || state == 13 || state == 19)
 	{
 		return "separator";
 	}
-	if (state == 29 || state == 31 || state == 25 || state == 12 || state == 13 || state == 14 || state == 15 || state == 16)
+	if (state == 35 || state == 37 || state == 29 || state == 14 || state == 15 || state == 16 || state == 17 || state == 18)
 	{
 		return "operator";
 	}
-	if (state == 8 || state == 9)
+	if (state == 10 || state == 11)
 	{
 		return "int_num";
 	}
-	if (state == 32)
+	if (state == 39)
 	{
 		return "real_num";
 	}
